@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/15253063HasanUnlu.dir/main.c.o  -o 15253063HasanUnlu 
